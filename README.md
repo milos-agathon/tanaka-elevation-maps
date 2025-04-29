@@ -4,6 +4,8 @@ Turn any digital elevation model into eye-catching illuminated contours and 3-D 
 
 # 2D Tanaka-style relief map of Tuscany
 
-
+![alt text](https://github.com/milos-agathon/tanaka-elevation-maps/blob/main/tuscany-tanaka-2d.png?raw=true)
 
 # And the 3D version
+
+![alt text](https://github.com/milos-agathon/tanaka-elevation-maps/blob/main/tuscany-tanaka-3d.png?raw=true)
