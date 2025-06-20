@@ -45,6 +45,8 @@ dem_rast_proj <- dem_rast |>
     terra::rast() |>
     terra::project(proj)
 
+dem_rast_proj[dem_rast_proj < 0] <- 0
+
 dem_df <- as.data.frame(dem_rast_proj, xy = TRUE)
 
 # head(dem_df)
