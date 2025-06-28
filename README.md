@@ -9,3 +9,5 @@ Turn any digital elevation model into eye-catching illuminated contours and 3-D 
 # And the 3D version
 
 ![alt text](https://github.com/milos-agathon/tanaka-elevation-maps/blob/main/tuscany-tanaka-3d.png?raw=true)
+
+Created with ☕ by **Milos Popovic** • [YouTube channel](https://www.youtube.com/@milos-makes-maps) – subscribe for more R + GIS tutorials.
